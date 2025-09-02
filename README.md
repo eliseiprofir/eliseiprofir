@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elisei PROFIR
 =====================================================================================================================================
-#### 🤝🏻 Open to work 🐍 Python Backend Developer 🤩 Passionate about programming 📚 Always learning 
+#### 🐍 Python Backend Developer 🤝🏻 Open to work 🤩 Passionate about programming 📚 Always learning 
 * 🌍 I'm based in Brasov, Romania
 * 🤝 I'm open to work remote as Python Backend Developer
 #### About me
