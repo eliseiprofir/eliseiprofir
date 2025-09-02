@@ -10,7 +10,7 @@ I realized that software development would allow me to use my natural strengths 
 
 So here I am...
 
-## 📄 Here is [my CV](https://github.com/eliseiprofir/eliseiprofir/blob/main/2_cv/CV_Elisei_PROFIR.pdf) and [my project](https://github.com/eliseiprofir/budget):
+## 📄 Here is [my CV](https://github.com/eliseiprofir/eliseiprofir/blob/main/2_cv/2025.09.02_CV_Elisei_PROFIR.pdf) and [my project](https://github.com/eliseiprofir/budget):
 
 ### 💰 Budget Management System App 
 
