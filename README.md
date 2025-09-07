@@ -10,11 +10,11 @@ I realized that software development would allow me to use my natural strengths 
 
 So here I am...
 
-## 📄 Here is [my CV](https://github.com/eliseiprofir/eliseiprofir/blob/main/2_cv/2025.09.02_CV_Elisei_PROFIR.pdf) and [my project](https://github.com/eliseiprofir/budget):
+## 📄 Here is [my CV](https://github.com/eliseiprofir/eliseiprofir/blob/main/Elisei_PROFIR_Resume.pdf) and [my project](https://github.com/eliseiprofir/budget):
 
 ### 💰 Budget Management System App 
 
-A comprehensive full-stack application for managing personal and family finances. The application uses Django and Django REST Framework for the backend, Streamlit for a fast, interactive frontend, and is fully containerized with Docker. It features JWT authentication, asynchronous task processing with Django Q, real-time balance analytics, and is deployed in production using Railway, Neon (PostgreSQL), and Upstash (Redis).
+A comprehensive full-stack application for managing personal and family finances. The backend is built with Django REST Framework, while the frontend uses Streamlit for a fast, interactive experience. The project is fully containerized with Docker. It features JWT authentication, asynchronous task processing with Django Q, real-time balance analytics, and is deployed in production using Railway, Neon (PostgreSQL), and Upstash (Redis).
 
 Main features:
 * 🏦 **Multi-location Tracking**: Record transactions across multiple locations
