@@ -1,14 +1,8 @@
-PROJECT TITLE: MUSIC LIBRARY DATABASE
-NAME: ELISEI PROFIR
-GITHUB & EDX USERNAME: proelisei
-CITY & COUNTRY: Brasov, Romania
-RECORDING DATE: 27th of June 2024
+# MUSIC LIBRARY DATABASE
 
 # Design Document
 
 By ELISEI PROFIR
-
-Video overview: https://youtu.be/j2UfHZsUe5M
 
 ## Scope
 
