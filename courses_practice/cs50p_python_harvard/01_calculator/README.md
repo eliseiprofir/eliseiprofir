@@ -1,5 +1,4 @@
 # SIMPLE OPERATIONS BETWEEN TWO NUMBERS
-#### Video Demo:  <URL "https://youtu.be/SNUhBZeEEbk">
 #### Description: The provided Python program is a simple command-line calculator that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) between two numbers. It also includes error handling to ensure that users enter valid numeric inputs and handles division by zero errors. Here's a detailed description of the program:
 
 #### The program begins with the definition of four functions: add, sub, mul, and div. Each function takes two parameters a and b, representing the operands for the respective arithmetic operation. Within each function, there is a try block to attempt the operation, and if an exception occurs (e.g., non-numeric input), it returns an error message.
