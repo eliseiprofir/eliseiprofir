@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Minimalist to-do list</title>
+</head>
+<body>
+    <h1>Minimalist to-do list</h1>
+    <form action="{{ url_for('add') }}" method="post">
+        <label for="task"></label>
+        <input type="text" id="task" name="task" required>
+        <button type="submit">Add task</button>
+    </form>
+    <ul>
+        {% for task in tasks %}
+            <li>
+                {{ task }}
+                <a href="{{ url_for('delete', task_id=loop.index-1) }}" onclick="return confirm('You want to delete this task?')">Delete task</a>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
