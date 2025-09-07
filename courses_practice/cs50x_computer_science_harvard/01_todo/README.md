@@ -1,12 +1,3 @@
-# PROJECT TITLE: Minimalist to-do list
-#### NAME: Elisei Profir
-#### GITHUB USERNAME: proelisei
-#### EDX USERNAME:    proelisei
-#### CITY & COUNTRY: Brasov, Romania
-#### RECORDING DATE: 25th of January 2024
-#### Video Demo:  https://youtu.be/3U8sO6k5ZCY
-#### Description:
-
 # Minimalist To-Do List
 
 ## Overview
