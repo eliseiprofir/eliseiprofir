@@ -1,14 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elisei PROFIR
 =====================================================================================================================================
-#### 🐍 Python Backend Developer 🤝🏻 Open to work 🤩 Passionate about programming 📚 Always learning 
+#### Python Developer | Open to work | Passionate about programming | Always learning 
 * 🌍 I'm based in Brasov, Romania
 * 🤝 I'm open to work remote as Python Backend Developer
-#### About me
-I've always had a structured, mathematical way of thinking and a passion for building, automating, and optimizing things that work well and make life easier. Around three years ago, while working in digital marketing, I stumbled upon programming—and it instantly clicked.
+## About me
+I’ve always had a structured, analytical way of thinking. About two years ago, while working in digital marketing, I discovered programming – and it instantly clicked. I realized software development would let me use my natural strengths to design tools and systems that can help people. Over the past two years, I have focused on becoming a Python Developer and my marketing background helps me understand what users really need, so I can create practical, user-friendly software while continuing to grow in backend development and cloud technologies.
 
-I realized that software development would allow me to use my natural strengths to design and build digital "machines"—systems and tools that bring real value to people’s lives. That’s when I decided to dive into learning programming and developing the skills needed to transition into tech. I'm currently looking for a role in backend web development, ideally working with Python. If you're hiring, let's chat!
+Backend skills: Python, OOP, Django REST Framework, API development, PostgreSQL, Docker and more.
 
-So here I am...
+I'm currently looking for a role or collaboration in Python backend development. If this is what you're looking for, let's chat:
+
+## 🙋🏻‍♂️Contact
+* ✉️ Email me at [pro.elisei@gmail.com](mailto:pro.elisei@gmail.com)
+* 📞 Phone me at +40 747 592 366
+* 📅 Schedule a meeting [tidycal.com/profir/meeting](https://tidycal.com/profir/meeting)
+* 🤝️ Connect with me on LinkedIn: [linkedin.com/in/eliseiprofir](https://www.linkedin.com/in/eliseiprofir/)
 
 ## 📄 Here is [my CV](https://github.com/eliseiprofir/eliseiprofir/blob/main/Elisei_PROFIR_Resume.pdf) and [my project](https://github.com/eliseiprofir/budget):
 
@@ -37,10 +43,6 @@ Main features:
 * 📜 [CS50's Introduction to Databases with SQL](https://certificates.cs50.io/91539629-c258-4f6e-b4eb-a1c1b8120b1d.pdf) – Harvard University
 * 📜 [Scientific Computing with Python](https://www.freecodecamp.org/certification/proelisei/scientific-computing-with-python-v7) – freeCodeCamp
 * 📜 [Clean Code](https://www.udemy.com/certificate/UC-6162c1c2-ec76-4224-a9fc-2145533e0a83/) – AcadeMind | Udemy
-
-## Contact
-* ✉️ Write me at [pro.elisei@gmail.com](mailto:pro.elisei@gmail.com)
-* 🙋🏻‍♂️ Connect with me on LinkedIn: [linkedin.com/in/eliseiprofir](https://www.linkedin.com/in/eliseiprofir/)
 
 ## Socials
 
