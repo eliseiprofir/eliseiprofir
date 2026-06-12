@@ -13,7 +13,7 @@ I'm currently looking for a role or collaboration in Python backend development.
 ## 🙋🏻‍♂️Contact
 * ✉️ Email me at [pro.elisei@gmail.com](mailto:pro.elisei@gmail.com)
 * 📞 Phone me at +40 747 592 366
-* 📅 Schedule a meeting [tidycal.com/profir/meeting](https://tidycal.com/profir/meeting)
+* 📅 Schedule a meeting [calendly.com/eliseiprofir/1hour](https://calendly.com/eliseiprofir/1hour)
 * 🤝️ Connect with me on LinkedIn: [linkedin.com/in/eliseiprofir](https://www.linkedin.com/in/eliseiprofir/)
 
 ## 📄 Here is [my CV](https://github.com/eliseiprofir/eliseiprofir/blob/main/Elisei_PROFIR_Resume.pdf) and [my project](https://github.com/eliseiprofir/budget):
@@ -33,8 +33,8 @@ Main features:
 * 📱 **Real-time Balance**: Track your current financial status across all locations and buckets
 
 🔗 App links
-- Backend / Django REST Framework: https://api.elisei.pro
-- Frontend / Streamlit App: https://app.elisei.pro
+- Backend / Django REST Framework: https://bit.ly/4fM1f3m
+- Frontend / Streamlit App: https://bit.ly/4eaNKch
 - Project's GitHub Repository: https://github.com/eliseiprofir/budget
 
 ## Certifications
